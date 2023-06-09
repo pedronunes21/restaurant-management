@@ -1,5 +1,10 @@
 # restaurant-management
 
+## Description
+A restaurant management system created using
+* Vue.js
+* JSON Server
+
 ## Project setup
 ```
 npm install
